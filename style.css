@@ -253,6 +253,7 @@ p[data-width="wide"] {
 
   .primary-navigation[data-visible] {
     display: block;
+    z-index: 1;
   }
 
   .menu-toggle {
