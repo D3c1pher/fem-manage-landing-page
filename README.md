@@ -2,6 +2,11 @@
 
 ![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)
 
+### Links
+
+- Solution URL: [Github repository](https://github.com/D3c1pher/fem-manage-landing-page)
+- Live Site URL: [Deployed live site](https://fem-manage-landing-page-omega.vercel.app/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
